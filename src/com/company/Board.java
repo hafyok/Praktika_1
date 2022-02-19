@@ -8,7 +8,7 @@ class Board extends JFrame{
     int rm = 0;
     int ac = 0;
     JButton buttonMilan = new JButton("AC Milan");
-    JButton buttonMadrid = new JButton("Real Madrid");
+    JButton buttonMadrid = new JButton("JJJJ");
     JLabel results = new JLabel("Results: " + rm + " X " + ac);
     JLabel scorer = new JLabel("Last Scorer: N/A");
     JLabel winner = new JLabel("Winner: DRAW");
